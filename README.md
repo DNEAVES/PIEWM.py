@@ -12,7 +12,7 @@ Why an .exe file? It's easier for people who dont have python interpreters and m
 
 ## How to use it?
 
-I recommend aliasing the command in `.bashrc`, `.zshrc`, etc. Be sure to source commands
+I recommend aliasing the command in `.bashrc`, `.zshrc`, etc. Be sure to source commands.
 
 Then just run the script. It will prompt for the information it needs (directory to work from, file to use).
 It also supports relative directories, so if youre already working within the directory the files live in, you can do `./` as the directory prompt.
