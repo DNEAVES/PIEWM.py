@@ -16,7 +16,7 @@ I recommend aliasing the command in `.bashrc`, `.zshrc`, etc. or linking/copying
 
 Then just run the script. It will prompt for the information it needs (directory to work from, file to use).
 It also supports relative directories, so if youre already working within the directory the files live in, you can do `./` as the directory prompt.
-It will take a few seconds but when its done your .exe will be in `./dist/`
+It will take a few seconds but when it's done your .exe will be in `./dist/`
 
 Note: I use the `--onefile` flag by choice, as it's easier for me to send one .exe file to my friend.
 Feel free to learn the code and adjust it to your needs (as long as you comply with the MIT license stuff).
