@@ -1,15 +1,15 @@
 # PIEWM.py
 
-##PyInstaller .Exe/Windows Maker
+## PyInstaller .Exe/Windows Maker
 
 A simple script to make Windows .exe files from python scripts on Linux/Unix.
 
 I used these commands frequently when packaging the Python Twitchbot for my friend, so I made it even easier for myself to convert .py files to .exe by packing it all into one python script to do the conversion.
 Why an .exe file? It's easier for people who dont have python interpreters and modules installed to run one executable.
 
-###Requires [sh](https://github.com/amoffat/sh) and [alive-progress](https://github.com/rsalmei/alive-progress) from pip, and [wine](https://wiki.winehq.org/Download)
+### Requires [sh](https://github.com/amoffat/sh) and [alive-progress](https://github.com/rsalmei/alive-progress) from pip, and [wine](https://wiki.winehq.org/Download)
 
-##How to use it?
+## How to use it?
 
 I recommend aliasing the command or copying it to a `/bin/` directory that makes sense for you (Whether its `/bin/`, `/usr/bin`, `/usr/local/bin/`, whatever it may be). Be sure to update/source commands if you do this.
 
