@@ -12,7 +12,7 @@ Why an .exe file? It's easier for people who dont have python interpreters and m
 
 ## How to use it?
 
-I recommend aliasing the command or copying it to a `/bin/` directory that makes sense for you (Whether its `/bin/`, `/usr/bin`, `/usr/local/bin/`, whatever it may be). Be sure to update/source commands if you do this.
+I recommend aliasing the command or copying it to a `/bin/` directory that makes sense for you (Whether its `/bin/`, `/usr/bin/`, `/usr/local/bin/`, whatever it may be). Be sure to update/source commands if you do this.
 
 Then just run the script. It will prompt for the information it needs (directory to work from, file to use).
 It also supports relative directories, so if youre already working within the directory the files live in, you can do `./` as the directory prompt.
