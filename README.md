@@ -8,7 +8,7 @@ I used these commands frequently when packaging the Python Twitchbot for my frie
 
 Why an .exe file? It's easier for people who dont have python interpreters and modules installed to run one executable.
 
-### Requires [sh](https://github.com/amoffat/sh) and [alive-progress](https://github.com/rsalmei/alive-progress) from pip, and [wine](https://wiki.winehq.org/Download)
+### Requires Python3, [sh](https://github.com/amoffat/sh) and [alive-progress](https://github.com/rsalmei/alive-progress) from pip, and [wine](https://wiki.winehq.org/Download)
 
 ## How to use it?
 
