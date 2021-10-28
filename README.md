@@ -10,7 +10,7 @@ Why an .exe file? It's easier for Windows users who dont have python interpreter
 
 ### Requires Python 3.x, [sh](https://github.com/amoffat/sh) and [alive-progress](https://github.com/rsalmei/alive-progress) from pip, and [wine](https://wiki.winehq.org/Download)
 
-### Also Requires you to go into a wine cmd prompt and install python and pyinstaller "on Windows"
+### Also Requires you to go into a wine cmd prompt and install Python 3.x and PyInstaller(https://pypi.org/project/pyinstaller/) "on Windows"
 
 ## How to use it?
 
